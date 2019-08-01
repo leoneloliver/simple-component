@@ -1,0 +1,23 @@
+
+
+.dropdown-item.active, .dropdown-item:active {
+  color: #fff;
+  text-decoration: none;
+  background-color: #85c526;
+}
+ul.dropdown-menu li a {
+  padding: 10px 22px;
+}
+.bootstrap-select>.dropdown-toggle {
+  justify-content: space-between;
+  border: 1px solid #cccc;
+  line-height: 1.8;
+  padding: .5rem 1rem;
+  height: 48px !important;
+  border-radius: 8px;
+  background-color: #fafbfb;
+  font-size: 0.9rem;
+}
+.dropdown-menu.show {
+  padding: 0;
+}
